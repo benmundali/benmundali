@@ -6,7 +6,7 @@ Mon objectif : créer des solutions robustes, modernes et utiles, tout en progre
 ---
 
 ## 🚀 Projets réalisés
-- **Point of Sale (Vue.js + tailwindcss)** : Front-end responsive pour la gestion des ventes en temps réel.
+- **Point of Sale (Vue.js + tailwindcss + JS)** : Front-end responsive et interactive pour la gestion des ventes en temps réel.
 - **Site web BTP (html + CSS + JS + Node.js)** : Plateforme full stack pour une entreprise de construction.
 
 ---
